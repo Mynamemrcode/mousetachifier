@@ -1,0 +1,8 @@
+body {
+    font-family: 'Delius', cursive;
+    background: linear-gradient(135deg, #4568DC 0%, #B06AB3 100%);
+}
+
+#color {
+    background: linear-gradient(45deg, lightpink 0%, purple 100%);
+}
